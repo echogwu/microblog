@@ -7,4 +7,4 @@ __pycache__/
 /flask
 
 # script used to install packages
-/pipinstall.sh
+pipinstall.sh
