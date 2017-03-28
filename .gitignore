@@ -8,3 +8,5 @@ __pycache__/
 
 # script used to install packages
 pipinstall.sh
+
+.idea
